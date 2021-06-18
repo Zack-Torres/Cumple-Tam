@@ -1,0 +1,30 @@
+prueba de colores {
+    color: #00c6f8;
+}
+
+#img-remarco {
+    border-color: black;
+    border-style: solid;
+}
+
+#barra {
+    background-color: rgb(255, 255, 255);
+    border-color: rgb(255, 255, 255);    
+}
+
+body {
+    background-color: #00c6f8;
+}
+
+h1 {
+    color: black;
+    font-family: 'Abel', sans-serif;
+}
+
+h3 {
+    color: black;
+    font-family: 'Abel', sans-serif;
+}
+
+
+
